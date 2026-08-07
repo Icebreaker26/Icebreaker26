@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Full-stack+PERN+developer;Building+custom+software+for+real+problems;Pereira+%C2%B7+Eje+Cafetero+%C2%B7+Colombia;Digital+transformation+%E2%80%94+from+scratch)](https://www.alejotorres.com)
 
 [![Portfolio](https://img.shields.io/badge/alejotorres.com-%236366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.alejotorres.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrotorres26/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.torres0826@gmail.com)
 [![GitHub](https://img.shields.io/badge/Icebreaker26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Icebreaker26)
 
@@ -61,17 +62,6 @@ Módulos: comercial · financiero · control interno
 </table>
 
 ---
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Icebreaker26&show_icons=false&theme=tokyonight&bg_color=020617&border_color=1e293b&title_color=6366f1&text_color=94a3b8&hide_border=false&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icebreaker26&layout=compact&theme=tokyonight&bg_color=020617&border_color=1e293b&title_color=6366f1&text_color=94a3b8&hide_border=false&langs_count=6" />
-
-</div>
 
 ---
 

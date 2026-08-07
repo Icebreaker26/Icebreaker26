@@ -64,6 +64,17 @@ Módulos: comercial · financiero · control interno
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Icebreaker26&show_icons=false&theme=tokyonight&bg_color=020617&border_color=1e293b&title_color=6366f1&text_color=94a3b8&hide_border=false&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icebreaker26&layout=compact&theme=tokyonight&bg_color=020617&border_color=1e293b&title_color=6366f1&text_color=94a3b8&hide_border=false&langs_count=6" />
+
+</div>
+
+---
+
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Icebreaker26&bg_color=020617&color=6366f1&line=6366f1&point=818cf8&area=true&area_color=6366f1&hide_border=false&border_color=1e293b&radius=8)](https://github.com/Icebreaker26)

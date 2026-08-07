@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Full-stack+PERN+developer;Building+custom+software+for+real+problems;Pereira+%C2%B7+Eje+Cafetero+%C2%B7+Colombia;Digital+transformation+%E2%80%94+from+scratch)](https://www.alejotorres.com)
 
-[![Portfolio](https://img.shields.io/badge/alejotorres.com-%236366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alejotorres.com)
+[![Portfolio](https://img.shields.io/badge/alejotorres.com-%236366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.alejotorres.com)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.torres0826@gmail.com)
 [![GitHub](https://img.shields.io/badge/Icebreaker26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Icebreaker26)
 

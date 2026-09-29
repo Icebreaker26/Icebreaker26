@@ -85,15 +85,7 @@ Software para la planificación de enlaces punto a punto (PTP) en telecomunicaci
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📐 [zonafresnel](https://github.com/Icebreaker26/zonafresnel)
-Calculadora de Zona de Fresnel para ingeniería de telecomunicaciones.
-
-`JavaScript`
-
-</td>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🐧 [cachy-custom-installer](https://github.com/Icebreaker26/cachy-custom-installer)
 Instalación automatizada estilo CachyOS (Arch + KDE + btrfs) para VirtualBox.

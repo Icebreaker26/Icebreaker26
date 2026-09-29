@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Alejandro%20Torres&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Digital%20Transformation&descAlignY=58&descSize=18&descColor=c7d2fe)
+![header](https://raw.githubusercontent.com/Icebreaker26/Icebreaker26/main/assets/header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Full-stack+PERN+developer;Building+custom+software+for+real+problems;Pereira+%C2%B7+Eje+Cafetero+%C2%B7+Colombia;Digital+transformation+%E2%80%94+from+scratch)](https://www.alejotorres.com)
 

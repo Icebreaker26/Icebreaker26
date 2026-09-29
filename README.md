@@ -85,12 +85,20 @@ Software para la planificación de enlaces punto a punto (PTP) en telecomunicaci
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 🐧 [cachy-custom-installer](https://github.com/Icebreaker26/cachy-custom-installer)
 Instalación automatizada estilo CachyOS (Arch + KDE + btrfs) para VirtualBox.
 
 `Shell`
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 [ucp-markdown-cli](https://github.com/Icebreaker26/ucp-markdown-cli)
+Herramienta local para escribir el informe de grado en Markdown con las reglas reales del programa: checklist automático, citas IEEE numeradas y exportación a .docx conforme.
+
+`Node.js` `Vanilla JS` `MIT`
 
 </td>
 </tr>

@@ -98,4 +98,13 @@ Instalación automatizada estilo CachyOS (Arch + KDE + btrfs) para VirtualBox.
 
 ---
 
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/Icebreaker26/Icebreaker26/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake](https://raw.githubusercontent.com/Icebreaker26/Icebreaker26/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
+
+---
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer)

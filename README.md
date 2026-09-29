@@ -63,13 +63,46 @@ Módulos: comercial · financiero · control interno
 
 ---
 
----
+## Proyectos open source
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Icebreaker26&bg_color=020617&color=6366f1&line=6366f1&point=818cf8&area=true&area_color=6366f1&hide_border=false&border_color=1e293b&radius=8)](https://github.com/Icebreaker26)
+### 🖥️ [moodle-tracker](https://github.com/Icebreaker26/moodle-tracker)
+Panel local para no perder el rastro de tareas y entregas del aula virtual (Moodle). API oficial, cero dependencias, sin servidores intermedios.
 
-</div>
+`Node.js` `Vanilla JS` `MIT`
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 [thelinkintool](https://github.com/Icebreaker26/thelinkintool)
+Software para la planificación de enlaces punto a punto (PTP) en telecomunicaciones.
+
+`JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📐 [zonafresnel](https://github.com/Icebreaker26/zonafresnel)
+Calculadora de Zona de Fresnel para ingeniería de telecomunicaciones.
+
+`JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐧 [cachy-custom-installer](https://github.com/Icebreaker26/cachy-custom-installer)
+Instalación automatizada estilo CachyOS (Arch + KDE + btrfs) para VirtualBox.
+
+`Shell`
+
+</td>
+</tr>
+</table>
 
 ---
 

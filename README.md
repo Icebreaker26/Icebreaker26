@@ -11,7 +11,7 @@
 
 </div>
 
----
+![](https://raw.githubusercontent.com/Icebreaker26/Icebreaker26/main/assets/divider.svg)
 
 ## Sobre mí
 
@@ -20,7 +20,7 @@ Cada producto arranca desde cero — pensado alrededor de los flujos reales de t
 
 Actualmente en práctica profesional en **⚡ Enel Colombia** — Permitting & Detailed Design de Alta Tensión.
 
----
+![](https://raw.githubusercontent.com/Icebreaker26/Icebreaker26/main/assets/divider.svg)
 
 ## Stack
 
@@ -30,7 +30,7 @@ Actualmente en práctica profesional en **⚡ Enel Colombia** — Permitting & D
 
 </div>
 
----
+![](https://raw.githubusercontent.com/Icebreaker26/Icebreaker26/main/assets/divider.svg)
 
 ## Proyectos en producción
 
@@ -61,7 +61,7 @@ Módulos: comercial · financiero · control interno
 </tr>
 </table>
 
----
+![](https://raw.githubusercontent.com/Icebreaker26/Icebreaker26/main/assets/divider.svg)
 
 ## Proyectos open source
 
@@ -96,7 +96,7 @@ Instalación automatizada estilo CachyOS (Arch + KDE + btrfs) para VirtualBox.
 </tr>
 </table>
 
----
+![](https://raw.githubusercontent.com/Icebreaker26/Icebreaker26/main/assets/divider.svg)
 
 <div align="center">
 
@@ -105,6 +105,6 @@ Instalación automatizada estilo CachyOS (Arch + KDE + btrfs) para VirtualBox.
 
 </div>
 
----
+![](https://raw.githubusercontent.com/Icebreaker26/Icebreaker26/main/assets/divider.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer)
